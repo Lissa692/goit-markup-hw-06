@@ -608,7 +608,7 @@ body {
   border: 1px solid #ffffff;
   color: #ffffff;
   border-radius: 4px;
-  padding-left: 5px;
+  padding-left: 16px;
   background: var(--dark);
   outline: transparent;
   transition: border-color var(--effects);
